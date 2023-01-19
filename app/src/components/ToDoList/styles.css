@@ -1,0 +1,43 @@
+.container1{
+      display: flex;
+      flex-direction: column;
+     
+
+}
+
+.box4{
+      display: flex;
+      flex-direction: row;
+      background-color: white;
+      height: 50vh;
+      width: 100vw; 
+}
+
+
+.boxrodape {
+      display: flex;
+      flex-direction: column;
+      background-color: blueviolet;
+      justify-content: center;
+      height: 15vh;
+      width: 100vw; 
+}
+
+.minibox{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      height: 5vh;
+      width: 100vw; 
+
+}
+
+.p {
+      font-size: 130%;
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+.box69{
+      display:flex;
+      flex-direction: row;
+}
